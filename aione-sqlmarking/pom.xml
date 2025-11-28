@@ -7,7 +7,7 @@
     <name>aione-sqlmarking</name>
     <groupId>org.ai-one</groupId>
     <artifactId>aione-sqlmarking</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
 
     <description>
         SQL marking plugin for Mybatis ORM to trace call sources and context information

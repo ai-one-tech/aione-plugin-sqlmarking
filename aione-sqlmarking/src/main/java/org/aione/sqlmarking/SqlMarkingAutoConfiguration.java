@@ -17,7 +17,6 @@ import org.springframework.context.annotation.Configuration;
  * @author Billy
  */
 @Slf4j
-@Configuration
 @ConditionalOnClass({SqlSessionFactory.class})
 @EnableConfigurationProperties(SqlMarkingConfig.class)
 public class SqlMarkingAutoConfiguration {
