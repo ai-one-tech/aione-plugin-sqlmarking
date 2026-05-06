@@ -58,7 +58,7 @@
         <dependency>
             <groupId>org.ai-one</groupId>
             <artifactId>aione-sqlmarking</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
+            <version>1.0.0</version>
             <scope>compile</scope>
         </dependency>
 
